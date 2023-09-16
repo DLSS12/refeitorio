@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+}
+header img{
+    width: 70px;
+    height: 70px;
+}
+.logo{
+    float: right 10;
+    margin-left: 32%;
+    margin-top: -5%;
+    border-radius: 100%;
+
+}
+.nome{
+    text-align: center;
+}
+footer img{
+    height: 190px;
+     width: 190px;
+}
+.cubered{
+    float: right 10;
+    margin-left: 24%;
+    margin-top: -194px;
+}
+.cubeblue{
+    float: right 10;
+    margin-left: 62%;
+    margin-top: 13%;
+}
+.meren{
+        float: right 10;
+        margin-left: 26%;
+        margin-top: -212px;
+}
+.entrada{
+    float: right 10;
+    margin-left: 65%;
+    margin-top: -3%;
+}
